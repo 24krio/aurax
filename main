@@ -1,3 +1,4 @@
+-- sets by carti / @carticrash
 getgenv().silent = {
     Settings = {
      Enabled = true,
