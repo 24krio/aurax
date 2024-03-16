@@ -6,7 +6,7 @@ getgenv().silent = {
      Prediction = 0.1424212,
      AutoPrediction = {
       Enabled = true,
-      Type = "Custom", -- Normal, Custom, Math
+      Type = "normal", -- Normal, Custom, Math
        ping20_30 = 0.12588,
        ping30_40 = 0.11911,
        ping40_50 = 0.12471,
@@ -25,11 +25,7 @@ getgenv().silent = {
        ping170_180 = 0.14945372,
        ping180_190 = 0.1515345448,
        ping190_200 = 0.15224234865
-       ping200_210 = 0.15424234865
-       ping210_220 = 0.15622344234865
-       ping220_230 = 0.15754624234865
-       ping230_240 = 0.1593224234865
-       ping240_250 = 0.161424234865,
+       ping200_210 = 0.15424234865,
      },
     },
     FOV = {
